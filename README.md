@@ -1,5 +1,3 @@
-# tcp-server
-
 # TCP Server
 
 This project implements a simple TCP server in Golang to handle client connections, receive data, and respond to requests. The server is designed for basic networking tasks such as communication with clients over TCP sockets, sending responses, and handling multiple clients concurrently.
@@ -52,7 +50,3 @@ Here's a basic example of client-server interaction:
 ## Contributing
 
 I will really appreciate any other upgrade in the project
-
----
-
-Happy Coding!
